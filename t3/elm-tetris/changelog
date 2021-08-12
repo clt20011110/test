@@ -1,0 +1,13 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+
+## [Released]
+## [1.0.0] - 2021-6-3
+### Added
+- Change the color of the control buttons to blue;
+- Add two more kinds of tetriminos;
+- Add "Have fun!" at the beginning of the game;
+- Adjust the mechanism such that each time a line is full, not only that line is cleared up but also the line below it, if it exists;
+
